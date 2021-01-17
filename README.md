@@ -1,5 +1,8 @@
 ### Hi there 👋
+🌱 I’m currently learning about Rust. 
+👯 I’m looking to collaborate on Open Source projects.
 
+DataViz geek, loving customizing NeoVim.
 <!--
 **caheredia/caheredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
