@@ -1,6 +1,12 @@
 ### Hi there 👋
 🌱 I’m currently learning about Rust. 
+
 👯 I’m looking to collaborate on Open Source projects.
+
+# Material that has influenced my programming philosophy 
+- At a bit Functional Programming
+- Data Orienied Design
+- Duck tape programming
 
 DataViz geek, loving customizing NeoVim.
 <!--
