@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning about Rust. 
 
-👯 I’m looking to collaborate on Open Source projects.
+👯 I’m a software engineer looking to collaborate on Open Source projects.
 
 I'm a DataViz geek.
 
