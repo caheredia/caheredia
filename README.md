@@ -1,17 +1,8 @@
 # Cristian Heredia 👋
 
-🌱 I’m currently learning about Rust. 
-
 👯 I’m a software engineer looking to collaborate on Open Source projects.
 
-I'm a DataViz geek.
-
-I'm loving customizing NeoVim, making it fit, my production needs, like a glove. 
-
-### Projects:
-
-- 🔭 I’m the author of [sanic-to-json](https://github.com/nvim-lua/telescope.nvimhttps://pypi.org/project/sanic-to-json/)
-- A contributor to [Neovim Color Schemes](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim)
+I'm loving customizing NeoVim, making it fit like a glove. 
 
 ### Material that has influenced my programming philosophy...an evolving list
 - [The pragmatic progammer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
