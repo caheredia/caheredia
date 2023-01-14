@@ -2,7 +2,6 @@
 
 👯 I’m a software engineer looking to collaborate on Open Source projects.
 
-I'm loving customizing NeoVim, making it fit like a glove. 
 
 ### Material that has influenced my programming philosophy...an evolving list
 - [The pragmatic progammer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
