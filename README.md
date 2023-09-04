@@ -4,6 +4,7 @@
 
 
 ### Material that has influenced my programming philosophy...an evolving list
+- [Architecture Patterns with Python](http://www.cosmicpython.com/)
 - [The pragmatic progammer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 - Functional Programming [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)
 - [Data Orienied Design](https://blog.klipse.tech/databook/2020/09/25/data-book-chap0.html)
